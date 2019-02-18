@@ -1,0 +1,17 @@
+<PLANE>
+-Plane wipe-out animation, spiral out of control *make plane pitch in the direction of the killing hit*
+-Do damage to entities on the ground once it crashes
+-Random slide distance before explosion
+-Paratrooper spawns from crashing plane
+-Plane gets machine gun weapon or something that only fires in one direction
+
+<ENGINEER>
+-Can build new bases/buildings, time based depending on building
+-Nearby unoccupied engineers will assist other engineers in building things
+-Weak attack, perhaps short range, rely on other units for protection
+-Other units protect engineers, especially when building?
+
+
+<WORLD>
+-World needs random buildings, a town/city that the entities can capture/destroy
+-Random nature, stuff like trees, rocks, water
