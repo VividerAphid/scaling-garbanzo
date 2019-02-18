@@ -5,12 +5,18 @@ X-Random slide distance before explosion
 X-Paratrooper spawns from crashing plane
  -Plane gets machine gun weapon or something that only fires in one direction
 
+<BASE/BUILDINGS?>
+ - Some kind of unit spawner buildings?
+ - Guard Towers?
+
 <ENGINEER>
  -Can build new bases/buildings, time based depending on building
  -Nearby unoccupied engineers will assist other engineers in building things
  -Weak attack, perhaps short range, rely on other units for protection
  -Other units protect engineers, especially when building?
 
+<FlAME THROWER>
+ - Self-explanatory
 
 <WORLD>
  -World needs random buildings, a town/city that the entities can capture/destroy
