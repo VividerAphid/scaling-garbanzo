@@ -5,9 +5,12 @@ X-Random slide distance before explosion
 X-Paratrooper spawns from crashing plane
  -Plane gets machine gun weapon or something that only fires in one direction
 
-<BASE/BUILDINGS?>
- -Some kind of unit spawner buildings?
- -Guard Towers?
+<BASE/BUILDINGS>
+ -Basic building can be captured, boosts range and health regen of any unit inside, depending on building attributes
+ -Walls, perhaps friendly units can shoot over, but other ground units can't shoot in?
+ -Some kind of unit spawner building for each unit type, ie factory for tanks, barracks for foot troops, etc.
+ -Guard Towers
+ -Spawn rate based on territory held?
 
 <ENGINEER>
  -Can build new bases/buildings, time based depending on building
