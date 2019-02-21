@@ -18,8 +18,11 @@ X-Paratrooper spawns from crashing plane
  -Weak attack, perhaps short range, rely on other units for protection
  -Other units protect engineers, especially when building?
 
-<FlAME THROWER>
- -Self-explanatory
+<WEAPONS>
+ <FlAME THROWER>
+	-Self-explanatory
+ <PUBIC WEAPON>
+	-110% easter egg, dunno what it does
 
 <WORLD>
  -World needs random buildings, a town/city that the entities can capture/destroy
